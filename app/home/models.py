@@ -11,3 +11,6 @@ class PostPage(Page):
 
 class VideoPage(Page):
     pass
+
+class ArticlePage(Page):
+    pass
